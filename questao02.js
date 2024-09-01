@@ -2,6 +2,8 @@
 
 IMPORTANTE: Esse número pode ser informado através de qualquer entrada de sua preferência ou pode ser previamente definido no código; */
 
+/* Para verificar a resolução, abrir o terminal e rodar a aplicação utilizando o node */
+
 const sequenciaFibonacci = [0 , 1]
 const numeroEscolhido = 8
 let pertence = false

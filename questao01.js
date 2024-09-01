@@ -3,7 +3,7 @@ Enquanto K < INDICE faça { K = K + 1; SOMA = SOMA + K; }
 Imprimir(SOMA);
 Ao final do processamento, qual será o valor da variável SOMA? */
 
-/* Para verificar a resolução, abrir o terminal e rodar a aplicação utilizando o node */""
+/* Para verificar a resolução, abrir o terminal e rodar a aplicação utilizando o node */
 
 let k = 0
 let soma = 0
